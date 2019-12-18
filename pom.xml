@@ -38,6 +38,8 @@
     </dependencies>
 
     <build>
+
+        <finalName>${projectName}.jar</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
